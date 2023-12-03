@@ -1,6 +1,6 @@
 <fable>
 	<page background="sansung.png">
-        <agent img="botão circulo.png" x="0" y="80" width="500" height="500"
+        <agent img="botão circulo.png" x="0" y="25" width="500" height="500"
 </agent>
         
                     <agent img="borda.png" x="0" y="0" width="500" height="500"
