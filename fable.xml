@@ -2,7 +2,9 @@
 	<page background="sansung.png">
         <agent img="botão circulo.png" x="0" y="0" width="500" height="350"
 </agent>
-         <agent img="botão triangulo.png" x="0" y="0" width="500" height="350"
+         <agent img="botão triangulo.png" x="60" y="0" width="500" height="350"
+</agent>
+         <agent img="botão quadrado.png" x="0" y="0" width="500" height="350"
 </agent>
         
                     <agent img="borda.png" x="0" y="0" width="500" height="500"
