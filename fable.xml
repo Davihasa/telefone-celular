@@ -3,7 +3,7 @@
             <agent 
                 <open img="box.png" x="200" y="100" width="50" height="50" on-touch="notopen">
                 <notopen img="metal.png" x="200" y="100" width="50" height="50" on-touch="open"> 
-                        
+                </agent>
         
     
   </page>
