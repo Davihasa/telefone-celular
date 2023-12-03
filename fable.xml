@@ -7,9 +7,9 @@
 </agent>
         <agent img="botão quadrado.png" x="40" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
 </agent>
-        <agent img="botão triangulo.png" x="76" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
+        <agent img="borda.png" x="424" y="0" width="500" height="500"
 </agent>
-          <agent img="borda.png" x="424" y="0" width="500" height="500"
+        <agent img="botão triangulo.png" x="76" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
 </agent>
        <agent img="botão circo.png" x="190" y="0" width="130" height="56" oh-touch="_GOTO_PAGE:2"
 </agent>
@@ -22,9 +22,9 @@
 </agent>
         <agent img="botão quadrado.png" x="40" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
 </agent>
-        <agent img="botão triangulo.png" x="76" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
+        <agent img="borda.png" x="424" y="0" width="500" height="500"
 </agent>
-          <agent img="borda.png" x="424" y="0" width="500" height="500"
+        <agent img="botão triangulo.png" x="76" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
 </agent>
        <agent img="botão circo.png" x="190" y="0" width="130" height="56" oh-touch="_GOTO_PAGE:2"
 </agent>
