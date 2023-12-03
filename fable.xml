@@ -7,7 +7,7 @@
 </agent>
         <agent img="box.png" x="350" y="350" width="50" height="50" on-touch="_GOTO_PAGE:2"
 </agent>
-        <agent img="botão quadrado.png" x="20" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
+        <agent img="botão quadrado.png" x="40" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
 </agent>
         <agent img="botão triangulo.png" x="76" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
 </agent>
