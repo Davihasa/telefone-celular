@@ -1,12 +1,12 @@
 <fable>
 	<page background="sansung.png">
-                        
-</agent>
-  </page>
-    <page background="sansung.png">
-                        
+            <agent 
 </agent>
   </page>
     
+	<page background="sansung.png">
+            <agent 
+</agent>
+  </page>
 </fable>
 </fable>
