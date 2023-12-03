@@ -1,10 +1,10 @@
 <fable>
 	<page background="sansung.png">
-                    <agent img="box.png" x="100" y="100" width="50" height="50" on-touch="_GOTO_PAGE:2"
+                    <agent img="box.png" x="400" y="400" width="50" height="50" on-touch="_GOTO_PAGE:2"
 </agent>
   </page>
     <page background="sansung.png">
-                <agent img="metal.png" x="100" y="100" width="50" height="50"
+                <agent img="metal.png" x="100" y="100" width="50" height="50" on-touch="_GOTO_PAGE:1"
 </agent>
   </page>
     
