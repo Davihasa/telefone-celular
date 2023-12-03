@@ -1,6 +1,7 @@
 <fable>
 	<page background="sansung.png">
         <agent img="box.png" x="200" y="100" width="50" height="50"  />
+        
     
   </page>
 </fable>
