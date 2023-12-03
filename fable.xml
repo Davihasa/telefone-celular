@@ -11,7 +11,7 @@
 </agent>
         <agent img="botão triangulo.png" x="76" y="0" width="400" height="350" oh-touch="_GOTO_PAGE:2"
 </agent>
-       <agent img="botão circo.png" x="190" y="0" width="130" height="56" oh-touch="_GOTO_PAGE:2"
+       <agent img="botão circo.png" x="160" y="300" width="130" height="56" draggable
 </agent>
       
   </page>
