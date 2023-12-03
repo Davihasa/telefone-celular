@@ -11,7 +11,7 @@
 </agent>
         <agent img="box.png" x="350" y="350" width="50" height="50" on-touch="_GOTO_PAGE:2"
 </agent>
-       <agent img="botão circulo.png" x="0" y="0" width="500" height="350" oh-touch="_GOTO_PAGE:1"
+       <agent img="botão circu.png" x="0" y="0" width="500" height="350" oh-touch="_GOTO_PAGE:1"
 </agent>
       
   </page>
@@ -28,7 +28,7 @@
 </agent>
         <agent img="metal.png" x="350" y="350" width="50" height="50" on-touch="_GOTO_PAGE:1"
 </agent>
-        <agent img="botão circulo.png" x="0" y="0" width="500" height="350" oh-touch="_GOTO_PAGE:1"
+        <agent img="botão triangulo.png" x="0" y="0" width="500" height="350" oh-touch="_GOTO_PAGE:1"
 </agent>
       
        
