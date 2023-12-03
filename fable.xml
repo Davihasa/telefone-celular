@@ -4,16 +4,12 @@
                 <unlocked img="metal.png" on-touch="open"/>
                 <open img="box.png" on-touch="unlocked"/>
 </agent>
-        
-    
   </page>
     <page background="sansung.png">
             <agent img="box.png" x="200" y="100" width="50" height="50" on-touch="unlocked">
                 <unlocked img="metal.png" on-touch="open"/>
                 <open img="box.png" on-touch="unlocked"/>
 </agent>
-        
-    
   </page>
 </fable>
 </fable>
