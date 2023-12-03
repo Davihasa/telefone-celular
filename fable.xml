@@ -5,7 +5,7 @@
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_NEXT_PAGE"
 </agent>
-        <agent img="box.png" x="350" y="35" width="130" height="56" on-touch="_NEXT_PAGE"
+        <agent img="box.png" x="190" y="350" width="130" height="56" on-touch="_NEXT_PAGE"
 </agent>
          <agent img="botão quadrado.png" x="40" y="0" width="400" height="350"
 </agent>
