@@ -1,7 +1,5 @@
 <fable>
 	<page background="sansung.png">
-         <agent img="botão circo.png" x="210" y="0" width="100" height="56" oh-touch="_GOTO_PAGE:2"
-</agent>
         <agent img="botão triangulo.png" x="65" y="0" width="500" height="350"
 </agent>
          <agent img="botão quadrado.png" x="-45" y="0" width="500" height="350"
@@ -13,7 +11,8 @@
 </agent>
         <agent img="box.png" x="350" y="350" width="50" height="50" on-touch="_GOTO_PAGE:2"
 </agent>
-    
+       <agent img="botão circo.png" x="210" y="0" width="100" height="56" oh-touch="_GOTO_PAGE:2"
+</agent>
       
   </page>
     
