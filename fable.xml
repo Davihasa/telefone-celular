@@ -1,6 +1,6 @@
 <fable>
-	<page background="sansung.png" />
-  
+	<page background="sansung.png">
+        <agent img="box.png" />
     
   </page>
 </fable>
