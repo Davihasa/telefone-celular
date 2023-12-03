@@ -1,7 +1,7 @@
 <fable>
 	<page background="sansung.png">
             <agent 
-                <open img="box.png" x="200" y="100" width="50" height="50" on-press="close"/>
+                <open img="box.png" x="200" y="100" width="50" height="50" on-touch="close"/>
                 <notopen img="metal.png" x="200" y="100" width="50" height="50" on-press="open"/> />
         
     
