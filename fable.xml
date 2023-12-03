@@ -19,6 +19,5 @@
                 <agent img="metal.png" x="100" y="100" width="50" height="50" on-touch="_GOTO_PAGE:1"
 </agent>
   </page>
-    
 </fable>
 </fable>
