@@ -113,6 +113,8 @@
     </page>
          
     <page name="whatsapp" background="fundobranco.png">
+         <agent img="seujanuconversa.png" x="79" y="56" width="345" height="56" on-touch="_GOTO_PAGE:8"
+</agent>
   <agent img="borda.png" x="0" y="0" width="80" height="500"
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
@@ -121,10 +123,9 @@
 </agent>
         <agent img="borda.png" x="424" y="0" width="80" height="500"
 </agent>
-        <agent img="botão tria.png" x="76" y="0" width="130" height="56"
+        <agent img="botão tria.png" x="76" y="0" width="130" height="56" on
 </agent>
-        <agent img="seujanuconversa.png" x="79" y="0" width="345" height="56" on-touch="_GOTO_PAGE:8"
-</agent>
+       
          <agent img="hud.png" x="79" y="444" width="345" height="56"
 </agent>
     </page>
