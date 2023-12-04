@@ -139,9 +139,7 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
-        <agent img="seujanuconversa.png" x="79" y="0" width="345" height="56" on-touch="_GOTO_PAGE:8"
-</agent>
-         <agent img="hud.png" x="79" y="444" width="345" height="56"
+        <agent img="seujanu.png" x="79" y="0" width="345" height="520" on-touch="_GOTO_PAGE:8"
 </agent>
     </page>
 </fable>
