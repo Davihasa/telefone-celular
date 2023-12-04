@@ -94,8 +94,8 @@
 </agent>
  
     </page>
-    <page name="intruções" background="parede.png">
-           <agent img="backinstru.png" x="50" y="100" width="400" height="500"
+    <page name="structions" background="parede.png">
+           <agent img="backstruc.png" x="50" y="100" width="400" height="500"
 </agent>
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
