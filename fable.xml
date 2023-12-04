@@ -39,5 +39,8 @@
 </agent>
         
   </page>
+    <page> background="pa"
+
+    </page>
 </fable>
 </fable>
