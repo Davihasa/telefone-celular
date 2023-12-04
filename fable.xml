@@ -7,11 +7,11 @@
 </agent>
         <agent img="box.png" x="190" y="250" width="130" height="56" on-touch="_NEXT_PAGE"
 </agent>
-         <agent img="botão quadra.png" x="300" y="0" width="130" height="56" on-touch="_NEXT_PAGE"
+         <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
         <agent img="borda.png" x="424" y="0" width="500" height="500"
 </agent>
-        <agent img="botão tria.png" x="76" y="0" width="130" height="56" on-touch="_NEXT_PAGE"
+        <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
         
   </page>
@@ -19,15 +19,15 @@
       
          <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
-         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_NEXT_PAGE"
+         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_PREV_PAGE"
 </agent>
-        <agent img="metal.png" x="190" y="250" width="130" height="56" on-touch="_NEXT_PAGE"
+        <agent img="metal.png" x="190" y="250" width="130" height="56" on-touch="_PREV_PAGE"
 </agent>
-         <agent img="botão quadra.png" x="300" y="0" width="130" height="56" on-touch="_NEXT_PAGE"
+         <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
         <agent img="borda.png" x="424" y="0" width="500" height="500"
 </agent>
-        <agent img="botão tria.png" x="76" y="0" width="130" height="56" on-touch="_NEXT_PAGE"
+        <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
         
   </page>
