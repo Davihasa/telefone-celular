@@ -79,7 +79,7 @@
 </agent>
       
     </page>
-    <page name="intruções" background="paredetres.png">
+    <page name="intruções" background="backinstru.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
