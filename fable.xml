@@ -123,7 +123,7 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
-        <agent img="botão tria.png" x="76" y="0" width="1" height="340"
+        <agent img="seujanuconversa.png" x="78" y="0" width="342" height="56"
 </agent>
     </page>
 </fable>
