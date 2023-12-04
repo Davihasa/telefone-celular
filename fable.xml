@@ -49,6 +49,15 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
+        <agent img="começar.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      <agent img="instruções.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      
         
     </page>
       <page name="en genio" background="paredetres.png">
