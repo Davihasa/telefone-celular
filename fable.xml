@@ -110,6 +110,23 @@
 </agent>
   <agent img="ok.png" x="180" y="80" width="130" height="56" on-touch="_GOTO_PAGE:4"
 </agent>
+    </page
+         
+    <page name="structions" background="parede.png">
+           <agent img="backstruc.png" x="50" y="100" width="400" height="500"
+</agent>
+  <agent img="borda.png" x="0" y="0" width="80" height="500"
+</agent>
+         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+         <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
+</agent>
+        <agent img="borda.png" x="424" y="0" width="80" height="500"
+</agent>
+        <agent img="botão tria.png" x="76" y="0" width="130" height="56"
+</agent>
+  <agent img="ok.png" x="180" y="80" width="130" height="56" on-touch="_GOTO_PAGE:4"
+</agent>
     </page>
 </fable>
 </fable>
