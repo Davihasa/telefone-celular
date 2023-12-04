@@ -90,7 +90,7 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
-    <agent img="backinstru.png" x="76" y="0" width="450" height="500"
+    <agent img="backinstru.png" x="0" y="100" width="500" height="500"
 </agent>
     </page>
 </fable>
