@@ -22,7 +22,9 @@
 </agent>
         
   </page>
-        <page background="linguasgenio.png">
+        <page background="sansung.png">
+       <agent img="borda.png" x="0" y="0" width="500" height="500"
+</agent>
       
          <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
