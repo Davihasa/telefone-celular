@@ -23,9 +23,9 @@
         
   </page>
         <page background="parede.png">
-        <agent img="portugues2.png" x="0" y="0" width="50" height="50"
+        <agent img="portugues2.png" x="200" y="350" width="100" height="100"
 </agent>
-        <agent img="english2.png" x="200" y="200" width="100" height="100"
+        <agent img="english2.png" x="200" y="150" width="100" height="100"
 </agent>
         <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
