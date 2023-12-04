@@ -129,6 +129,8 @@
 </agent>
     </page>
      <page name="janu" background="fundobranco.png">
+            <agent img="seujanu.png" x="76" y="0" width="350" height="520" on-touch="_GOTO_PAGE:8"
+</agent>
   <agent img="borda.png" x="0" y="0" width="80" height="500"
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
@@ -138,8 +140,6 @@
         <agent img="borda.png" x="424" y="0" width="80" height="500"
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
-</agent>
-        <agent img="seujanu.png" x="79" y="0" width="345" height="520" on-touch="_GOTO_PAGE:8"
 </agent>
     </page>
 </fable>
