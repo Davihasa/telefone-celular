@@ -55,7 +55,7 @@
 </agent>
       <agent img="ranking.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
-      <agent img="music.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
+      <agent img="musica.png" x="380" y="400" width="25" height="25" on-touch="_GOTO_PAGE:1"
 </agent>
       
         
