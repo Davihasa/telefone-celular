@@ -6,8 +6,11 @@
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56"
 </agent>
-        <agent img="iconwhats.png" x="190" y="250" width="50" height="50" on-touch="_NEXT_PAGE"
+        <agent img="iconwhats.png" x="340" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
 </agent>
+        <agent img="iconwhats.png" x="340" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
+</agent>
+   
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
         <agent img="borda.png" x="424" y="0" width="500" height="500"
