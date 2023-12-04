@@ -1,6 +1,6 @@
 <fable>
     
-	<page background="sansung.png">
+	<page name="home" background="sansung.png">
       
          <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
@@ -38,7 +38,7 @@
             <agent img="english2.png" x="200" y="130" width="100" height="100" on-touch="_GOTO_PAGE:4"
 </agent>
   </page>
-        <page  background="paredetres.png" soundtrack="">
+        <page name="pt genio" background="paredetres.png" soundtrack="">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
              <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
@@ -58,7 +58,7 @@
       <agent img="musica.png" x="380" y="420" width="25" height="25"
 </agent>    
     </page>
-      <page background="paredetres.png">
+      <page name="en genio" background="paredetres.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
@@ -79,7 +79,7 @@
 </agent>
       
     </page>
-    <page  background="parede.png">
+    <page name="intruções" background="parede.png">
            <agent img="backinstru.png" x="50" y="100" width="400" height="500"
 </agent>
   <agent img="borda.png" x="0" y="0" width="500" height="500"
@@ -95,7 +95,7 @@
   <agent img="ok.png" x="180" y="80" width="130" height="56" on-touch="_GOTO_PAGE:3"
 </agent>
     </page>
-    <page  background="parede.png">
+    <page name="structions" background="parede.png">
            <agent img="backstruc.png" x="50" y="100" width="400" height="500"
 </agent>
   <agent img="borda.png" x="0" y="0" width="500" height="500"
