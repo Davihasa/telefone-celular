@@ -39,7 +39,7 @@
 </agent>
         
   </page>
-    <page background="paredetres.png">
+    <page name="pt genio" background="paredetres.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
              <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
@@ -52,7 +52,7 @@
 </agent>
         
     </page>
-      <page background="paredetres.png".png">
+      <page name="en genio" background="paredetres.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
