@@ -52,5 +52,18 @@
 </agent>
         
     </page>
+      <page background="parede.png">
+  <agent img="borda.png" x="0" y="0" width="500" height="500"
+</agent>
+         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_PREV_PAGE"
+</agent>
+         <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
+</agent>
+        <agent img="borda.png" x="424" y="0" width="500" height="500"
+</agent>
+        <agent img="botão tria.png" x="76" y="0" width="130" height="56"
+</agent>
+        
+    </page>
 </fable>
 </fable>
