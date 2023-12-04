@@ -22,12 +22,10 @@
 </agent>
         
   </page>
-        <page background="parede.png">
-        <agent img="english2.png" x="200" y="130" width="100" height="100" on-touch="_GOTO_PAGE:4"
-</agent>
+        <page name="idiomas" background="parede.png">
         <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
-         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_home"
+         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
@@ -37,12 +35,13 @@
 </agent>
         <agent img="portugues2.png" x="200" y="320" width="100" height="100" on-touch="_GOTO_PAGE:3"
 </agent>
-        
+            <agent img="english2.png" x="200" y="130" width="100" height="100" on-touch="_GOTO_PAGE:4"
+</agent>
   </page>
     <page name="pt genio" background="paredetres.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
-             <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="home"
+             <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
@@ -55,7 +54,7 @@
       <page name="en genio" background="paredetres.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
-         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="home"
+         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
