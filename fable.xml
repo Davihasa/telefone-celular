@@ -10,7 +10,7 @@
 </agent>
         <agent img="iconcalcu.png" x="260" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
 </agent>
-     <agent img="iconcalcu.png" x="260" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
+     <agent img="iconnubank.png" x="180" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
 </agent>
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
