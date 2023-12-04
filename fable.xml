@@ -22,7 +22,7 @@
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_PREV_PAGE"
 </agent>
-        <agent img="metal.png" x="190" y="250" width="130" height="56"
+        <agent img="metal.png" x="190" y="250" width="50" height="50"
 </agent>
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
