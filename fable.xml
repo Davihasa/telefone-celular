@@ -51,7 +51,7 @@
 </agent>
         <agent img="começar.png" x="210" y="230" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
-      <agent img="instruções.png" x="210" y="150" width="100" height="56" on-touch="_GOTO_PAGE:1"
+      <agent img="instruções.png" x="210" y="150" width="100" height="56" on-touch="_GOTO_PAGE:5"
 </agent>
       <agent img="ranking.png" x="210" y="70" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
@@ -71,7 +71,28 @@
 </agent>
       <agent img="start.png" x="210" y="230" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
-      <agent img="instructions.png" x="210" y="150" width="100" height="56" on-touch="_GOTO_PAGE:1"
+      <agent img="instructions.png" x="210" y="150" width="100" height="56" on-touch="_GOTO_PAGE:6"
+</agent>
+      <agent img="ranking.png" x="210" y="70" width="100" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      <agent img="musica.png" x="380" y="420" width="25" height="25"
+</agent>
+      
+    </page>
+    <page name="intruções" background="paredetres.png">
+  <agent img="borda.png" x="0" y="0" width="500" height="500"
+</agent>
+         <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+         <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
+</agent>
+        <agent img="borda.png" x="424" y="0" width="500" height="500"
+</agent>
+        <agent img="botão tria.png" x="76" y="0" width="130" height="56"
+</agent>
+      <agent img="start.png" x="210" y="230" width="100" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      <agent img="instructions.png" x="210" y="150" width="100" height="56" on-touch="_GOTO_PAGE:6"
 </agent>
       <agent img="ranking.png" x="210" y="70" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
