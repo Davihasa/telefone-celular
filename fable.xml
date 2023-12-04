@@ -12,7 +12,7 @@
 </agent>
      <agent img="iconnubank.png" x="190" y="400" width="50" height="50"
 </agent>
-        <agent img="icongenio.png" x="110" y="400" width="50" height="50" on-touch="_GOTO_PAGE:3"
+        <agent img="icongenio.png" x="110" y="400" width="50" height="50" on-touch="_GOTO_PAGE:2"
 </agent>
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
@@ -49,16 +49,14 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
-        <agent img="começar.png" x="210" y="220" width="100" height="56" on-touch="_GOTO_PAGE:1"
+        <agent img="começar.png" x="210" y="230" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
       <agent img="instruções.png" x="210" y="150" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
       <agent img="ranking.png" x="210" y="70" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
       <agent img="musica.png" x="380" y="420" width="25" height="25"
-</agent>
-      
-        
+</agent>    
     </page>
       <page name="en genio" background="paredetres.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
@@ -71,8 +69,15 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
-          <agent img="musica.png" x="380" y="420" width="25" height="25"
+      <agent img="start.png" x="210" y="230" width="100" height="56" on-touch="_GOTO_PAGE:1"
 </agent>
+      <agent img="instructions.png" x="210" y="150" width="100" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      <agent img="ranking.png" x="210" y="70" width="100" height="56" on-touch="_GOTO_PAGE:1"
+</agent>
+      <agent img="musica.png" x="380" y="420" width="25" height="25"
+</agent>
+      
     </page>
 </fable>
 </fable>
