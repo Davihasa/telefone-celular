@@ -23,7 +23,7 @@
         
   </page>
         <page background="parede.png">
-        <agent img="portugues2.png" x="200" y="320" width="100" height="100" on-touch="_GOTO_PAGE:3"
+        <agent img="portugues2.png" x="200" y="320" width="100" height="100" on-touch="_GOT"
 </agent>
         <agent img="english2.png" x="200" y="130" width="100" height="100" on-touch="_GOTO_PAGE:4"
 </agent>
@@ -39,7 +39,7 @@
 </agent>
         
   </page>
-    <page background="p.png">
+    <page background="parede2.png">
   <agent img="borda.png" x="0" y="0" width="500" height="500"
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56" on-touch="_PREV_PAGE"
