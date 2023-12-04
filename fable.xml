@@ -6,13 +6,13 @@
 </agent>
          <agent img="botão circo.png" x="190" y="0" width="130" height="56"
 </agent>
-        <agent img="iconwhats.png" x="350" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
+        <agent img="iconwhats.png" x="350" y="400" width="50" height="50"
 </agent>
-        <agent img="iconcalcu.png" x="270" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
+        <agent img="iconcalcu.png" x="270" y="400" width="50" height="50"
 </agent>
-     <agent img="iconnubank.png" x="190" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
+     <agent img="iconnubank.png" x="190" y="400" width="50" height="50"
 </agent>
-          <agent img="icongenio.png" x="110" y="400" width="50" height="50" on-touch="_NEXT_PAGE"
+        <agent img="icongenio.png" x="110" y="400" width="50" height="50" on-touch="_GOTO_PAGE:2"
 </agent>
          <agent img="botão quadra.png" x="300" y="0" width="130" height="56"
 </agent>
