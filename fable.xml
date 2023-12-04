@@ -92,7 +92,7 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
-  <agent img="ok.png" x="180" y="80" width="130" height="56" on-touch="_PREV_PAGE"
+  <agent img="ok.png" x="180" y="80" width="130" height="56" on-touch="_GOTO_PAGE:3"
 </agent>
     </page>
     <page name="structions" background="parede.png">
@@ -108,7 +108,7 @@
 </agent>
         <agent img="botão tria.png" x="76" y="0" width="130" height="56"
 </agent>
-  <agent img="ok.png" x="180" y="80" width="130" height="56" on-touch="_PREV_PAGE"
+  <agent img="ok.png" x="180" y="80" width="130" height="56" on-touch="_GOTO_PAGE:4"
 </agent>
     </page>
 </fable>
